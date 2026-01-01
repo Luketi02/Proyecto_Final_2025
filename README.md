@@ -46,8 +46,10 @@ El diseño de la interfaz está orientado al usuario final, priorizando la usabi
 
 ## 🧑‍💻 Autor
 
-**Lucas Juan Miño**  
-Estudiante de la carrera Analista en Sistemas de Computación.
-Estudiante de la carrera Prof. Universitario en Computación.
-Estudiante de la carrera Lic. en Sistemas de Información.
-Universidad Nacional de Misiones.
+**Miño Lucas Juan**
+* Profesor Universitario en Computación
+* Estudiante de Licenciatura en Sistemas de Información
+* [LinkedIn](https://www.linkedin.com/in/lucas-juan-mi)
+
+---
+*Este proyecto fue realizado con fines académicos*
